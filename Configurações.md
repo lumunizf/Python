@@ -5,7 +5,7 @@
  * Python 3.
 
 
-## Interpretador Python
+## Interpretador Python :snake:
 
  * Download do interpretador [Python 3](https://www.python.org/downloads/)
  * Selecione a versão mais atual **à partir da versão 3.4.0**, de acordo com o sistema operacional (windows 64 bits).
