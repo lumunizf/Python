@@ -13,4 +13,4 @@ Editora Novatec - 2ª edição - 2014.
 
 ## License
 
-MIT License © Luciana Muniz Freire.
+MIT License © [Luciana Muniz Freire](https://br.linkedin.com/in/lumunizf).
